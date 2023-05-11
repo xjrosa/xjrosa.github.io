@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Rosa;José Filipe;;;
+FN:José Filipe Rosa
+ORG:EMEL
+ADR;TYPE=WORK:Alameda das Linhas de Torres 198-200
+1750-150 Lisboa
+TITLE:Diretor de Sistemas de Informação
+TEL;TYPE=CELL:+351932008681
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:jose.f.rosa@emel.pt
+URL;TYPE=Digital Business Card:
+URL:www.emel.pt
+URL;TYPE=Website:www.emel.pt
+URL;TYPE=LinkedIn:https://linkedin.com/in/jose-filipe-rosa-8893618/
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Empresa Municipal de Mobilidade e Estacionamento de Lisboa
+UID:EnBizCard-100199891
+END:VCARD
